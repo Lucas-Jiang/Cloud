@@ -9,14 +9,21 @@
 > Evernote、GitHub
 
 #### IDE
-> Eclipse、IDEA
+> Eclipse、IntelliJ IDEA
 
-> SQLyog
+> SQLyog、Navicat
 
 > Postman、HttpRequester
 
-> Maven
+> treeNMS、RedisClient
 
-#### Browser
+> SecureCRT、Putty、XShell
 
+#### Office
 > Chrome、FireFox
+
+> Foxmail
+
+> QQ、wechat
+
+> Everything
