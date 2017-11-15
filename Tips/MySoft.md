@@ -3,7 +3,9 @@
 
 #### TextEditor
 > Atom、EditPlus、Sublime Text
+>
 > Office、WPS
+>
 > Evernote、GitHub
 
 #### IDE
