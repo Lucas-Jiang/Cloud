@@ -1,5 +1,6 @@
 # 备忘笔记 - 店小伙
 
+[百度](baidu.com)
 ***
 ### 列表页面-通用数据权限设置
 ```Java
@@ -77,3 +78,29 @@ SKU库存查询
 #### 六：组织机构同步接口
 组织机构
 分点分仓管理
+
+### 查看服务器日志
+```
+ cd app
+ cd Logs
+ cd base.dianxiaohuocy.net
+```
+查看实时日志命令
+```
+tail -f base.log
+```
+退出
+> Ctrl + C
+
+查看历史日志命令
+```
+vi base.log
+```
+查看第122行
+> :122
+
+翻页
+> Ctrl + U / Ctrl + D
+
+查看日志信息
+> Ctrl + G
