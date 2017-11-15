@@ -1,8 +1,5 @@
 # 备忘笔记 - 店小伙
 
-[GITLAB][1]
-[1]: http://git.dianxiaohuo.top "店小伙GITLAB地址"
-
 ***
 ### 列表页面-通用数据权限设置
 ```Java
